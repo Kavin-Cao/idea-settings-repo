@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java,*.class" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*finance*.html,*finance*.js</mask>
     <mask>*.jAVA</mask>
     <mask>*.js,*.html,*.java</mask>
@@ -28,11 +28,11 @@
     <mask>*Controller.java</mask>
     <mask>*.java</mask>
     <mask>*Example.java</mask>
-    <mask>*.jsp</mask>
     <mask>*Controller.java,*Service.java,*ServiceImpl.java</mask>
     <mask>*ServiceImpl.java</mask>
     <mask>MemberBaseInfo*.java</mask>
-    <mask>*.xml</mask>
     <mask>*.java,*.class</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
