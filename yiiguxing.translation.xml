@@ -1,8 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Callback for processing a received Rabbit message. Implementors are supposed to process the given Message, typically sending reply messages through the given Session." />
+      <item value="Callback for processing a received Rabbit message. * &lt;p&gt;Implementors are supposed to process the given Message," />
+      <item value="processing" />
       <item value="Callback" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="2" />
+      </map>
+    </option>
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
