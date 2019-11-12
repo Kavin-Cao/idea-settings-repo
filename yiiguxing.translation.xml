@@ -1,4 +1,9 @@
 <application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Callback" />
+    </histories>
+  </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
     <option name="translator" value="ai.youdao" />
