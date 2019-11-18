@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Abstract Url Handler Mapping" />
       <item value="Callback for processing a received Rabbit message. Implementors are supposed to process the given Message, typically sending reply messages through the given Session." />
       <item value="Callback for processing a received Rabbit message. * &lt;p&gt;Implementors are supposed to process the given Message," />
       <item value="processing" />
