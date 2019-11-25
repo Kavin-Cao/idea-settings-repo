@@ -29,9 +29,9 @@
     <mask>*Example.java</mask>
     <mask>*ServiceImpl.java</mask>
     <mask>MemberBaseInfo*.java</mask>
-    <mask>*.xml</mask>
     <mask>*Controller.java,*Service.java,*ServiceImpl.java</mask>
     <mask>*.jsp</mask>
     <mask>*.java,*.class</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
