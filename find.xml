@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java,*.class" />
     <mask>*finance*.html,*finance*.js</mask>
     <mask>*.jAVA</mask>
     <mask>*.js,*.html,*.java</mask>
@@ -31,7 +32,7 @@
     <mask>MemberBaseInfo*.java</mask>
     <mask>*Controller.java,*Service.java,*ServiceImpl.java</mask>
     <mask>*.jsp</mask>
-    <mask>*.java,*.class</mask>
     <mask>*.xml</mask>
+    <mask>*.java,*.class</mask>
   </component>
 </application>
