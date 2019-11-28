@@ -5,5 +5,6 @@
     <ignoreAction name="Database/Run query in console" />
     <ignoreAction name="Java/Declaration/Split Declaration" />
     <ignoreAction name="Language Injection/Un-inject Language/Reference" />
+    <ignoreAction name="XML/Convert text to CData" />
   </component>
 </application>
