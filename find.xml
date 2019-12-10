@@ -1,9 +1,10 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <mask>*finance*.html,*finance*.js</mask>
     <mask>*.jAVA</mask>
     <mask>*.js,*.html,*.java</mask>
@@ -28,11 +29,11 @@
     <mask>*ServiceImpl.java</mask>
     <mask>MemberBaseInfo*.java</mask>
     <mask>*Controller.java,*Service.java,*ServiceImpl.java</mask>
-    <mask>*.xml</mask>
     <mask>*.java,*.class</mask>
     <mask>*Controller.java</mask>
-    <mask>*.jsp</mask>
     <mask>*.js,*.html</mask>
+    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>
