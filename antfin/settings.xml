@@ -2,9 +2,24 @@
   <component name="AlipaySettings">
     <option name="authInfo">
       <IdeAuthInfo>
-        <option name="token" value="authlogBa6be882f12d946e09200224d77647X09" />
+        <option name="encOpenHomeCookieText" value="5d26b1e54c55aad162bf0f06a568c7998d0e8334998aad033cfb0ea380d310ee6a465e29334e86a8d3b789f1097304739b9bcef2c05e3ad4d221ea478139255639c319ba6efaf820bd3b506d742663d0faf9a49a02f994cfebafdfb2854de4adfa6e3cc160c5f66aff3cb8d2234c02153436f40615a68796fd606f361ea59f47592aa48953d203cfa0e0c09067cd283af33c9a9da4754ea9a395a50a262226edbd3bfb65d158c14856f1ab9344009793e0f6dd28caba6a36357a75df444ecec98bfe71b35bc69022e7a0af045a8de1714be683dad625c6a7e20f4e147c517c2ba9e0cfdb048e1458b818e04c075f6a40fb8982c89c4f081a56944565e269f5088606703ac0149c0bcdb0d16b22f75bb0dd6d5e793d3c631381f249356e6a541cf5d85faf04c7f4bb12f3a5ac47a8043016d786fc5142a292ce86baa46fd467e93a4dd27b7d6af8f1fdc15a0f8325eee6384c727cd3b4be174c21678a783b32dbf0f3b021258cfd043bb940eb937b1c3e01cd56ca4edd82990df652e5cc27c09908b9583802d19c6c0ad4ef1ba121746997d91424cdf87c7988ae8ca53c77f858d2c1481fa533b0c201f8c0fc9fe7743a5085f3e2766b278fb9179e366cc66a979fdd0c5fd2a9a88e764e56bc86b01b4f595b09b3b28f3a8910625a4196fc06f9" />
+        <option name="qrCode">
+          <IdeQrCode>
+            <option name="qrCodeId" value="EH53TC9GWX7UGITaXtBlQW4PLnD2c2aN_auth_53" />
+            <option name="qrCodeUrl" value="https://m.alipay.com/UzXjqsy" />
+          </IdeQrCode>
+        </option>
+        <option name="token" value="authlogB44f309b418cb44459c51ef2301d02X09" />
         <option name="version" value="com.alipay.antcloud.ide-1.0.13" />
       </IdeAuthInfo>
+    </option>
+    <option name="authStatus" value="OK" />
+    <option name="openHomeUser">
+      <OpenHomeUserInfo>
+        <option name="loginId" value="454679718@qq.com" />
+        <option name="realName" value="曹礼宝" />
+        <option name="userId" value="2088702088846094" />
+      </OpenHomeUserInfo>
     </option>
   </component>
 </application>

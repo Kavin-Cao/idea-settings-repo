@@ -1,0 +1,19 @@
+<application>
+  <component name="AlipayAppBaseInfoProject">
+    <option name="projects">
+      <map>
+        <entry key="E:/workpkg/sddshop/master">
+          <value>
+            <AppBaseInfo>
+              <option name="appId" value="2019112069243803" />
+              <option name="appName" value="送多多惠民商城" />
+              <option name="appType" value="TINYAPP" />
+              <option name="englishName" value="songduoduo" />
+              <option name="logoUrl" value="https://appstoreisvpic.alipayobjects.com/prod/93841b60-1f30-4e9a-a842-15287a087cd3.png" />
+            </AppBaseInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
