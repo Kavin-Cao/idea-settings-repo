@@ -37,7 +37,8 @@
       <artifact name="MariaDB Connector J" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="mysql.8">
+    <driver id="mysql.8" name="mizlong@39.108.223.244">
+      <remarks>39.108.223.244</remarks>
       <artifact name="MySQL Connector/J 8" use="true" version="8.0.15" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
