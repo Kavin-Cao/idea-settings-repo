@@ -16,7 +16,6 @@
     <mask>*.java,*.xml,*.properties,*.yml</mask>
     <mask>*.html,*.js</mask>
     <mask>*.vue</mask>
-    <mask>*.html</mask>
     <mask>*.js,*.jsp</mask>
     <mask>*.js,*.jsp,*.html</mask>
     <mask>*.js</mask>
@@ -33,5 +32,6 @@
     <mask>*.js,*.html</mask>
     <mask>*.java,*.class</mask>
     <mask>*.yml</mask>
+    <mask>*.html</mask>
   </component>
 </application>
