@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*finance*.html,*finance*.js</mask>
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.jAVA</mask>
     <mask>*.js,*.html,*.java</mask>
     <mask>*.java,*.js,*.html</mask>
@@ -33,5 +33,6 @@
     <mask>*.java</mask>
     <mask>*.js,*.html</mask>
     <mask>*.java,*.class</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
