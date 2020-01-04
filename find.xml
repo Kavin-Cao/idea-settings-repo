@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html,*.js" />
     <mask>*.jAVA</mask>
     <mask>*.js,*.html,*.java</mask>
     <mask>*.java,*.js,*.html</mask>
@@ -14,7 +15,6 @@
     <mask>*.java,*.xml</mask>
     <mask>*.java,*.xml,*.properties</mask>
     <mask>*.java,*.xml,*.properties,*.yml</mask>
-    <mask>*.html,*.js</mask>
     <mask>*.vue</mask>
     <mask>*.js,*.jsp</mask>
     <mask>*.js,*.jsp,*.html</mask>
@@ -33,5 +33,6 @@
     <mask>*.java,*.class</mask>
     <mask>*.yml</mask>
     <mask>*.html</mask>
+    <mask>*.html,*.js</mask>
   </component>
 </application>
