@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="text" />
       <item value="transpose" />
       <item value="Long" />
       <item value="ossclient" />
