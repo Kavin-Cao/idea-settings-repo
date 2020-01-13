@@ -28,10 +28,10 @@
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.yml</mask>
     <mask>*.html</mask>
     <mask>*.html,*.js</mask>
     <mask>*.java,*.class</mask>
     <mask>*.js,*.html</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
