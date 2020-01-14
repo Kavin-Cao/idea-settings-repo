@@ -24,7 +24,6 @@
     <mask>MemberBaseInfo*.java</mask>
     <mask>*Controller.java,*Service.java,*ServiceImpl.java</mask>
     <mask>*Controller.java</mask>
-    <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.html</mask>
@@ -33,5 +32,6 @@
     <mask>*.yml</mask>
     <mask>*.java,*.class</mask>
     <mask>*.js</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>
