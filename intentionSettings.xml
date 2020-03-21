@@ -1,0 +1,10 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Language Injection/Edit Injected Fragment" />
+    <ignoreAction name="Language Injection/Edit Injection Settings" />
+    <ignoreAction name="Database/Run query in console" />
+    <ignoreAction name="Java/Declaration/Split Declaration" />
+    <ignoreAction name="Language Injection/Un-inject Language/Reference" />
+    <ignoreAction name="XML/Convert text to CData" />
+  </component>
+</application>
