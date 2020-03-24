@@ -5,11 +5,10 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js,*.html" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.js,*.html,*.java</mask>
     <mask>*.java,*.js,*.html</mask>
     <mask>*application-dev.properties</mask>
-    <mask>*.properties</mask>
     <mask>*.js,*.css</mask>
     <mask>*.readme</mask>
     <mask>*.java,*.html,*.xml</mask>
@@ -36,5 +35,6 @@
     <mask>*.xml</mask>
     <mask>*.java,*.class</mask>
     <mask>*.js,*.html</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
