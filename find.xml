@@ -3,8 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js,*.html" />
-    <mask>*.js,*.html,*.java</mask>
     <mask>*.java,*.js,*.html</mask>
     <mask>*application-dev.properties</mask>
     <mask>*.js,*.css</mask>
@@ -34,5 +32,6 @@
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.js,*.html</mask>
+    <mask>*Mapper.java</mask>
   </component>
 </application>
