@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsp" />
     <mask>*application-dev.properties</mask>
     <mask>*.js,*.css</mask>
     <mask>*.readme</mask>
@@ -31,7 +32,7 @@
     <mask>*.xml</mask>
     <mask>*.java,*.class</mask>
     <mask>*.jsp,*.js,*.css</mask>
-    <mask>*.jsp</mask>
     <mask>*xml</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>
