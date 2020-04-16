@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="渗透测试" />
+      <item value="测试" />
       <item value="px 50px" />
       <item value="PRIVATE" />
       <item value="Rows" />
@@ -19,7 +21,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
@@ -29,7 +31,6 @@
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="14a3c85d5eff7344" />
-        <option name="appKeyConfigured" value="true" />
       </youdao-translate>
     </option>
   </component>
