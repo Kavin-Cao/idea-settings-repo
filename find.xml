@@ -24,7 +24,6 @@
     <mask>*.html,*.js</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
-    <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*Mapper.java</mask>
     <mask>*.js,*.html</mask>
@@ -33,5 +32,6 @@
     <mask>*.jsp,*.js,*.css</mask>
     <mask>*xml</mask>
     <mask>*.jsp</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
