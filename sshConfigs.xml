@@ -4,7 +4,7 @@
       <sshConfig authType="PASSWORD" host="120.24.56.93" id="cbb7cb50-47a4-4f1c-b537-d4cb7d6e9427" port="22" customName="生产发布@120.24.56.93" nameFormat="CUSTOM" username="root" />
       <sshConfig authType="PASSWORD" host="39.108.223.244" id="834147ac-fd5f-4f96-98b8-84b0bd78ceeb" port="22" customName="测试发布@39.108.223.244" nameFormat="CUSTOM" username="root" />
       <sshConfig authType="PASSWORD" host="120.24.56.93" id="380bbfe0-a4fd-4cc3-8ec4-03614fb02a94" port="22" customName="micro-services@120.24.56.93" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="120.24.56.93" id="2cc528c9-1a09-462b-80e5-06fc903d2e7b" port="22" customName="micro-services@120.24.56.93" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="120.24.56.93" id="80b9b14b-5e60-470f-a1b8-fad441a9c716" port="22" customName="micro-services@120.24.56.93" nameFormat="CUSTOM" username="root" />
     </configs>
   </component>
 </application>
