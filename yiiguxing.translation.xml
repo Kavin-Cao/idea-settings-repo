@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transfer" />
+      <item value="transefer Sn" />
       <item value="Throw" />
       <item value="渗透测试" />
       <item value="测试" />
@@ -21,8 +23,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
+        <entry key="MALAY" value="1" />
       </map>
     </option>
   </component>
