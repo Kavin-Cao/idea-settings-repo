@@ -28,10 +28,10 @@
     <mask>*.jsp,*.js,*.css</mask>
     <mask>*mapper.java</mask>
     <mask>*Mapper.java</mask>
-    <mask>*.js,*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*xml</mask>
     <mask>*.java,*.class</mask>
+    <mask>*.js,*.html</mask>
   </component>
 </application>
