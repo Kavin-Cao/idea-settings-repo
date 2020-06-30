@@ -31,7 +31,7 @@
     <mask>*.jsp</mask>
     <mask>*xml</mask>
     <mask>*.java,*.class</mask>
-    <mask>*.js,*.html</mask>
     <mask>*.properties</mask>
+    <mask>*.js,*.html</mask>
   </component>
 </application>
