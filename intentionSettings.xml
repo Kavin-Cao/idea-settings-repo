@@ -6,5 +6,6 @@
     <ignoreAction name="Java/Declaration/Split Declaration" />
     <ignoreAction name="Language Injection/Un-inject Language/Reference" />
     <ignoreAction name="XML/Convert text to CData" />
+    <ignoreAction name="Language injection/Inject language or reference" />
   </component>
 </application>
