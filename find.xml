@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css" />
     <mask>*.js,*.css</mask>
     <mask>*.readme</mask>
     <mask>*.java,*.html,*.xml</mask>
@@ -13,7 +14,6 @@
     <mask>*.js,*.jsp</mask>
     <mask>*.js,*.jsp,*.html</mask>
     <mask>*Service*.java</mask>
-    <mask>*.css</mask>
     <mask>*Example.java</mask>
     <mask>*ServiceImpl.java</mask>
     <mask>MemberBaseInfo*.java</mask>
@@ -33,5 +33,6 @@
     <mask>*.java,*.class</mask>
     <mask>*xml</mask>
     <mask>*.js,*.html</mask>
+    <mask>*.css</mask>
   </component>
 </application>
