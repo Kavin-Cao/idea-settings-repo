@@ -30,9 +30,9 @@
     <mask>*Mapper.java</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*xml</mask>
     <mask>*.js,*.html</mask>
     <mask>*.css</mask>
+    <mask>*xml</mask>
     <mask>*.java,*.class</mask>
   </component>
 </application>
