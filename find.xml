@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js,*.html" />
     <mask>*.js,*.css</mask>
     <mask>*.readme</mask>
     <mask>*.java,*.html,*.xml</mask>
@@ -33,9 +34,9 @@
     <mask>*Mapper.java</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.js,*.html</mask>
     <mask>*.css</mask>
     <mask>*xml</mask>
     <mask>*.java,*.class</mask>
+    <mask>*.js,*.html</mask>
   </component>
 </application>
