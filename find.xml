@@ -5,8 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*xml" />
-    <mask>*.js,*.css</mask>
+    <option name="FILE_MASK" value="*Controller.java,*.class" />
     <mask>*.readme</mask>
     <mask>*.java,*.html,*.xml</mask>
     <mask>*.java,*.xml</mask>
@@ -34,7 +33,8 @@
     <mask>*.properties</mask>
     <mask>*.css</mask>
     <mask>*.js,*.html</mask>
-    <mask>*.java,*.class</mask>
     <mask>*xml</mask>
+    <mask>*.java,*.class</mask>
+    <mask>*Controller.java,*.class</mask>
   </component>
 </application>
