@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java,*.class" />
     <mask>*.readme</mask>
     <mask>*.java,*.html,*.xml</mask>
     <mask>*.java,*.xml</mask>
@@ -31,8 +30,8 @@
     <mask>*.properties</mask>
     <mask>*.css</mask>
     <mask>*.js,*.html</mask>
-    <mask>*xml</mask>
     <mask>*Controller.java,*.class</mask>
     <mask>*.java,*.class</mask>
+    <mask>*xml</mask>
   </component>
 </application>
