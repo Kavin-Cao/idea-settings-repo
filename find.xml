@@ -29,9 +29,9 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.css</mask>
-    <mask>*.java,*.class</mask>
     <mask>*xml</mask>
     <mask>*.js,*.html</mask>
     <mask>*Controller.java,*.class</mask>
+    <mask>*.java,*.class</mask>
   </component>
 </application>
