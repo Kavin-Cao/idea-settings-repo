@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.readme</mask>
     <mask>*.java,*.html,*.xml</mask>
     <mask>*.java,*.xml</mask>
@@ -23,7 +24,6 @@
     <mask>*Controller.java</mask>
     <mask>*.java</mask>
     <mask>*.html,*.js</mask>
-    <mask>*.yml</mask>
     <mask>*.js</mask>
     <mask>*.jsp,*.js,*.css</mask>
     <mask>*mapper.java</mask>
@@ -37,5 +37,6 @@
     <mask>*.html</mask>
     <mask>*.js,*.html</mask>
     <mask>*.java,*.class</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
