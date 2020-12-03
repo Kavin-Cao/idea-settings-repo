@@ -29,9 +29,9 @@
     <mask>*Controller.java,*.class</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
-    <mask>*.html</mask>
     <mask>*.java,*.class</mask>
     <mask>*.xml</mask>
     <mask>*.js,*.html</mask>
+    <mask>*.html</mask>
   </component>
 </application>
