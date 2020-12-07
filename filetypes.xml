@@ -4,11 +4,11 @@
       <mapping ext="ico2" type="Image" />
       <mapping ext="ico1" type="Image" />
       <mapping pattern="jsPDF" type="JavaScript" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".DS_Store" type="PLAIN_TEXT" />
-      <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="lombok" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
