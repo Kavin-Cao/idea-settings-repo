@@ -29,9 +29,9 @@
     <mask>*.yml</mask>
     <mask>*.js</mask>
     <mask>*.java,*.class</mask>
-    <mask>*.xml</mask>
     <mask>*.js,*.html</mask>
     <mask>*Mapper.java</mask>
     <mask>*.html</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
