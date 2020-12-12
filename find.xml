@@ -30,10 +30,10 @@
     <mask>*Controller.java,*.class</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
-    <mask>*.java,*.class</mask>
     <mask>*Mapper.java</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.js,*.html</mask>
+    <mask>*.java,*.class</mask>
   </component>
 </application>
