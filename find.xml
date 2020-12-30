@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java,*.class" />
     <mask>*.readme</mask>
     <mask>*.java,*.html,*.xml</mask>
     <mask>*.java,*.xml</mask>
@@ -30,8 +31,8 @@
     <mask>*.js</mask>
     <mask>*Mapper.java</mask>
     <mask>*.html</mask>
-    <mask>*.java,*.class</mask>
     <mask>*.xml</mask>
     <mask>*.js,*.html</mask>
+    <mask>*.java,*.class</mask>
   </component>
 </application>
