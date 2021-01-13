@@ -30,8 +30,8 @@
     <mask>*Mapper.java</mask>
     <mask>*.xml</mask>
     <mask>*.html</mask>
-    <mask>*.js,*.html</mask>
     <mask>*.java,*.class</mask>
     <mask>*.yml</mask>
+    <mask>*.js,*.html</mask>
   </component>
 </application>
