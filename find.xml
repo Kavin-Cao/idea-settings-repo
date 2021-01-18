@@ -27,11 +27,11 @@
     <mask>*Controller.java,*.class</mask>
     <mask>*.js</mask>
     <mask>*Mapper.java</mask>
-    <mask>*.xml</mask>
     <mask>*.html</mask>
     <mask>*.yml</mask>
     <mask>*.js,*.html</mask>
     <mask>*.java,*.class</mask>
     <mask>*.js,*.html,*.css</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
