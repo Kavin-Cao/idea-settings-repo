@@ -31,7 +31,7 @@
     <mask>*.yml</mask>
     <mask>*.js,*.html</mask>
     <mask>*.java,*.class</mask>
-    <mask>*.js,*.html,*.css</mask>
     <mask>*.xml</mask>
+    <mask>*.js,*.html,*.css</mask>
   </component>
 </application>
