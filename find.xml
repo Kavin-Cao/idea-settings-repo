@@ -29,7 +29,6 @@
     <mask>*.css</mask>
     <mask>*xml</mask>
     <mask>*Controller.java,*.class</mask>
-    <mask>*.js</mask>
     <mask>*Mapper.java</mask>
     <mask>*.html</mask>
     <mask>*.yml</mask>
@@ -37,5 +36,6 @@
     <mask>*.xml</mask>
     <mask>*.js,*.html,*.css</mask>
     <mask>*.java,*.class</mask>
+    <mask>*.js</mask>
   </component>
 </application>
