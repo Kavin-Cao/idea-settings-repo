@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="t YPE" />
       <item value="ddtax" />
       <item value="Request Mapping Handler Mapping" />
       <item value="todo" />
@@ -36,6 +37,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611305799146" />
+    <option name="lastTrimTime" value="1611828507335" />
   </component>
 </application>
