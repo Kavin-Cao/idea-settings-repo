@@ -77,8 +77,8 @@
         <entry key="*.apk">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1038,6 +1038,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.nginx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="ideanginx9" />
+              <option name="myPluginName" value="nginx Support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.odt">
           <value>
             <plugin>
@@ -1185,8 +1193,8 @@
         <entry key="*.psd">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
+              <option name="myPluginId" value="com.intellij.platform.images" />
+              <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -2388,6 +2396,11 @@
                   <entry key="mocha-javascript-test-runner">
                     <value>
                       <FeaturePluginData displayName="Mocha" pluginName="Node.js" pluginId="NodeJS" />
+                    </value>
+                  </entry>
+                  <entry key="nginx.configuration.type">
+                    <value>
+                      <FeaturePluginData displayName="nginx server" pluginName="nginx Support" pluginId="ideanginx9" />
                     </value>
                   </entry>
                 </map>
