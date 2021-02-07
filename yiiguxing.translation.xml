@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="t YPE" />
+      <item value="ddtax" />
+      <item value="Request Mapping Handler Mapping" />
       <item value="todo" />
       <item value="Reason: Failed to determine a suitable driver class" />
       <item value="WT" />
@@ -32,5 +35,8 @@
         <entry key="MALAY" value="1" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1611828507335" />
   </component>
 </application>
